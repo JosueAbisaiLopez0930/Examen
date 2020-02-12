@@ -1,0 +1,16 @@
+head html{
+    margin: 0;
+    display: flex;
+}
+
+#input{
+    padding: 10px;
+    text-anchor: 16px;
+}
+
+#label{
+    text-anchor: 16px;
+}
+#body{
+    background-color: aquamarine;
+}
